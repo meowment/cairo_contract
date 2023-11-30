@@ -8,7 +8,7 @@
 > This repo contains highly experimental code.
 > It has no code coverage checks.
 > It hasn't been audited.
-> **Use at your own risk.**
+> **Use at your own risk!.**
 
 ## Usage
 
